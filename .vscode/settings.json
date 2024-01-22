@@ -1,4 +1,14 @@
 {
   "java.configuration.updateBuildConfiguration": "automatic",
-  "cSpell.words": ["arieljtyson", "languagetranslator"]
+  "cSpell.words": ["arieljtyson", "languagetranslator"],
+  "java.project.sourcePaths": [
+    "src/main/java",
+    "src/tests/java",
+    "src",
+    "src/main",
+    "src/tests",
+    "src/tests/java/com/arieljtyson/languagetranslator",
+    "src/main/java/com/arieljtyson/languagetranslator",
+    "src/tests/java/com/arieljtyson"
+  ]
 }
